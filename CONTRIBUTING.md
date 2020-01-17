@@ -19,6 +19,7 @@ Please create a [Wiki](https://github.com/dkantereivin/programmers-palace-exampl
 6. By submitting code to this repository, you are relinquishing any copyrights over the code, and releasing the intellectual property into the *public domain*. This means that any code you submit will conform to this repository's [license](https://github.com/dkantereivin/programmers-palace-examples/blob/master/LICENSE).
 
 ## Suggestions:
-1. Write up a README.md **inside your project's folder** indicating the author of the code, any
+1. Write up a README.md **inside your project's folder** indicating the author of the code and writing about it (see 3 and 4).
 2. Clean up and comment your code before posting! Set a good example for others, and make your code more accessible to beginners who may be reviewing it!
-3. Explain your code! Tell us about the journey -- what does it do, how did you come to write it, what was the most challenging, and how did you overcome it? Anything that would be helpful to others is helpful, and looks great on you as the contributor!
+3. Write what the purpose of this code is, and perhaps why you're writing it!
+4. Explain your code! Tell us about the journey -- what does it do, how did you come to write it, what was the most challenging, and how did you overcome it? Anything that would be helpful to others is helpful, and looks great on you as the contributor!
