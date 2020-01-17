@@ -17,6 +17,7 @@ Please create a [Wiki](https://github.com/dkantereivin/programmers-palace-exampl
 4. Please avoid advertising or self-promotion within your contributions. We will be reasonable: if it is neccessary or helpful to the overall purpose of your code, then absolutely add it; just avoid irrelevant links or advertisements of any kind.
 5. Please, if you worked on this with someone else (whether they were helping you or you were helping them), give them credit if you're uploading the code!
 6. By submitting code to this repository, you are relinquishing any copyrights over the code, and releasing the intellectual property into the *public domain*. This means that any code you submit will conform to this repository's [license](https://github.com/dkantereivin/programmers-palace-examples/blob/master/LICENSE).
+7. Write a descriptive commit message, especially if you choose not to write a README. This is extremely important, failure to comply may result in your pull request being rejected.
 
 ## Suggestions:
 1. Write up a README.md **inside your project's folder** indicating the author of the code and writing about it (see 3 and 4).
