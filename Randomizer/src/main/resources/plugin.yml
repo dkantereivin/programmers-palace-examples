@@ -1,0 +1,15 @@
+name: Randomizer
+version: 0.1
+main: forbidden.dev.randomizer.Randomizer
+api-version: 1.13
+description: 'Plugin Requested by GGothicRide'
+commands:
+  Randomizer:
+    usage: /<command>
+  ToggleAll:
+    usage: /<command>
+permissions:
+  Randomizer.Reload:
+    description: allows /Randomizer
+  Randomizer.ToggleAll:
+    description: allows /ToggleAll
