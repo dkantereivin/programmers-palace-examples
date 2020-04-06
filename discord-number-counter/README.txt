@@ -1,3 +1,5 @@
+Contributed by SlimeyDerp.
+
 Hey!
 
 I just made this README because I felt it was the right thing to do.

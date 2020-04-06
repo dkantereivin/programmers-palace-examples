@@ -1,4 +1,7 @@
 # Randomizer
+
+Contributed by [Forbidden#0001](https://github.com/M-Ashoor).
+
 Randomizer: Plugin requested by GGothicRide
 
 everything you do, drops a random amount of something random! :P

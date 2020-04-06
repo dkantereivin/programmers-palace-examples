@@ -1,5 +1,7 @@
 # Unbeatable Tic Tac Toe
 
+Contributed by [zorbyte#4500](https://github.com/zorbyte).
+
 ## How to run/play.
 
 Make sure you have Python 3.6+ installed (I developed it using that version, so just to stay safe I would recommend using it).
