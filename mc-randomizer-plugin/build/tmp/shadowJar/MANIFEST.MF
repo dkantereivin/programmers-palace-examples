@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: kotlin-stdlib-jdk8-1.3.41.jar kotlin-stdlib-jdk7-1.3.41.jar 
- kotlin-stdlib-1.3.41.jar kotlin-stdlib-common-1.3.41.jar annotations-13
- .0.jar
-
