@@ -1,0 +1,19 @@
+{
+  "name": "discord-mass-role-giver",
+  "version": "1.0.0",
+  "description": "A script which automatically assigns a role to all members of a guild who do not currently possess it.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": {
+    "name": "DKanterEivin",
+    "email": "kanter.dev@gmail.com",
+    "url": "https://github.com/dkantereivin"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0"
+  }
+}
